@@ -3,7 +3,7 @@
 
 [Visual Studio 2022][Windows RPM/WPM][IDA Pro 7.7][Cheat Engine]
 
-# TODO
+# To-do
 - Noclip
 - Get forward and strafe fraction from Actor
 - Build m_localplayer class
