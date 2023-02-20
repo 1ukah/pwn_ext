@@ -5,6 +5,6 @@
 
 # To-do
 - Noclip
-- Get forward and strafe fraction from m_locaplayer interface
+- Get forward and strafe fraction from m_localplayer interface
 
 I made this project to learn and improve my Memory Manipulation and Reverse Engineering skills. 
