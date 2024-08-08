@@ -24,6 +24,7 @@
     <ProjectGuid>{5d0912c6-e320-4798-84c6-58cdca9a2fa5}</ProjectGuid>
     <RootNamespace>paoadventure</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>pwn_ext</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -135,7 +136,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="pao_adventure.cpp" />
+    <ClCompile Include="pwn_ext.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="proc.cpp" />
   </ItemGroup>

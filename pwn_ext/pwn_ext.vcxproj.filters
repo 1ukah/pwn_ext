@@ -11,7 +11,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pao_adventure.cpp">
+    <ClCompile Include="pwn_ext.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="proc.cpp">
